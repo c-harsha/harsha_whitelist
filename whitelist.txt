@@ -4,3 +4,5 @@ megaphone.cloud
 megaphone.fm
 chtbl.com
 console-telemetry.oci.oraclecloud.com
+edge.activity.windows.com
+browser.events.data.msn.com
