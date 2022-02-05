@@ -6,7 +6,6 @@ chtbl.com
 console-telemetry.oci.oraclecloud.com
 edge.activity.windows.com
 browser.events.data.msn.com
-duckdns.org
 keedns1.duckdns.org
 keesdns2.duckdns.org
 slnsrvr.duckdns.org
