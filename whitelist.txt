@@ -9,6 +9,6 @@ browser.events.data.msn.com
 keedns1.duckdns.org
 keesdns2.duckdns.org
 slnsrvr.duckdns.org
-wgsln.duckdns.org
+homesln.duckdns.org
 duckdns.org
 srvcrft.duckdns.org
