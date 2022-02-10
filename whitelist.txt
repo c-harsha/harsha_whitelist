@@ -12,3 +12,4 @@ slnsrvr.duckdns.org
 homesln.duckdns.org
 duckdns.org
 srvcrft.duckdns.org
+vowifi.jio.com
