@@ -17,3 +17,4 @@ https://www.bing.com/*
 https://arc.msn.com/v3/Delivery/*
 https://arc.msn.com.nsatc.net/*
 https://*.akamaized.net/*
+pdst.fm
