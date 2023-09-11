@@ -19,3 +19,5 @@ https://arc.msn.com.nsatc.net/*
 https://*.akamaized.net/*
 pdst.fm
 captivate.fm
+podcasts.captivate.fm
+*.captivate.fm
