@@ -22,7 +22,8 @@ captivate.fm
 podcasts.captivate.fm
 *.captivate.fm
 clients4.google.com
-ping.ui.com
+*.ui.com
+*.reddit.com
 clients2.google.com
 s.youtube.com
 video-stats.l.google.com
