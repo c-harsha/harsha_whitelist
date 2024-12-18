@@ -274,6 +274,7 @@ logs.juspay.in
 appboy-images.com
 rest.iad-03.braze.com
 mobileandroidapi.punchh.com
+*.tailscale.com
 rmbl.ws
 cds.s5x3j6q5.hwcdn.net
 analytics.svt.se
