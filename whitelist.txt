@@ -279,3 +279,5 @@ rmbl.ws
 cds.s5x3j6q5.hwcdn.net
 analytics.svt.se
 tailscale.com
+apple.com
+*.apple.com
