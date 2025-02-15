@@ -281,3 +281,5 @@ analytics.svt.se
 tailscale.com
 apple.com
 *.apple.com
+*.icloud.com
+*.signal.com
