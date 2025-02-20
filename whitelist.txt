@@ -283,3 +283,5 @@ apple.com
 *.apple.com
 *.icloud.com
 *.signal.com
+local
+127.0.0.1
