@@ -1,4 +1,3 @@
-*.slnonline.net
 arc.msn.com
 arc.msn.com.nsatc.net
 megaphone.cloud
