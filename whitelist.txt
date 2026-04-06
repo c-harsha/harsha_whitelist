@@ -282,6 +282,9 @@ apple.com
 *.apple.com
 *.icloud.com
 *.signal.com
+*.kee.in
+*.slnonline.net
+
 local
 127.0.0.1
 *.netflix.com
