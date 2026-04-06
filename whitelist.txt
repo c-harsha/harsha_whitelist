@@ -286,7 +286,8 @@ apple.com
 *.slnonline.net
 *.jio.com
 *.airtel.in
-
+*.lgtvcommon.com
+*.lge.com
 local
 127.0.0.1
 *.netflix.com
