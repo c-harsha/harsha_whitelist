@@ -284,6 +284,8 @@ apple.com
 *.signal.com
 *.kee.in
 *.slnonline.net
+*.jio.com
+*.airtel.in
 
 local
 127.0.0.1
