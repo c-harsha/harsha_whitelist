@@ -291,3 +291,5 @@ apple.com
 local
 127.0.0.1
 *.netflix.com
+*.ui.com
+ping.ui.com
